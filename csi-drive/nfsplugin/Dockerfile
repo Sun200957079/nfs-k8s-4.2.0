@@ -1,2 +1,2 @@
-FROM registry.k8s.io/sig-storage/nfsplugin:v4.2.0
+FROM registry.k8s.io/sig-storage/nfsplugin:v3.1.0
 LABEL author=zhang
